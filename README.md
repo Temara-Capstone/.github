@@ -4,7 +4,7 @@
 
 We are Temara from team C23-PS360, and this is our project repository.
 
-Our project combines technology from machine learning, android, and cloud computing to produce a mobile application based on mental health called temara 
+Our project combines technology from machine learning, android, and cloud computing to produce a mobile application based on mental health called Temara 
 
 ## Team Members
 | Name | Bangkit ID | GitHub | LinkedIn |
